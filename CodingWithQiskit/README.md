@@ -1,5 +1,5 @@
-### **Qiskit Coding Practice**
-This repository contains my practice work using **Qiskit** in Jupyter Notebook. The files include various exercises and implementations related to quantum computing using IBM's Qiskit framework.
+### **CodingWithQiskit**
+This folder contains my practice work using **Qiskit** in Jupyter Notebook. The files include various exercises and implementations related to quantum computing using IBM's Qiskit framework.
 
 ## **Contents**
 - 📄 **Qiskit_1**: Contains fundamental quantum circuit implementations, basic gates, and state visualization.
