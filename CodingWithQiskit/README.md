@@ -23,7 +23,7 @@ To run these notebooks on your local machine:
    ```
 4. Clone this repository:
    ```sh
-   git clone https://github.com/QiskitPractice/your-repository.git
+   git clone https://github.com/OhmAB/Qiskit_Practice/CodingWithQiskit.git
    ```
 5. Navigate to the folder and run:
    ```sh
